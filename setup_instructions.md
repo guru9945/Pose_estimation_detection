@@ -15,5 +15,6 @@ Make sure you have:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hand-gesture-recognition-mediapipe.git
+git clone https://github.com/guru9945/Pose_estimation_detection.git
 cd hand-gesture-recognition-mediapipe
+
